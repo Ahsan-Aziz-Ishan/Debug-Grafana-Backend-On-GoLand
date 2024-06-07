@@ -1,6 +1,7 @@
 # Debug-Grafana-Backend-On-GoLand
 # If you want, you can buy me a pizza [here](https://buymeacoffee.com/portmafia9719) (if this works,as you know this wasn't really really easy ) 
 
+# Make sure you have the latest/compatible version of delve in GoLand
 From Command Line:
 ```
 go run build.go setup
